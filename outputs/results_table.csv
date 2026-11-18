@@ -1,0 +1,7 @@
+metric,A_champion,B_challenger,difference_B_minus_A
+accuracy,0.915,0.95,0.035
+macro_f1,0.9141,0.9497,0.0356
+precision_macro,0.9183,0.9505,0.0322
+recall_macro,0.9121,0.9491,0.037
+total_inference_s,5.0341,8.9296,3.8955
+avg_latency_ms,25.1707,44.6481,19.4774
